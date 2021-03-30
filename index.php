@@ -8,7 +8,7 @@
         <div class="col-md-4">
             <h1 class="text-center">Search Channel</h1>
             <div class="input-group mt-3 mb-3">
-                <input type="text" class="form-control" placeholder="Hololive Member Name" id="search-input">
+                <input type="text" class="form-control" placeholder="Hololive member name..." id="search-input">
                 <button class="btn btn-dark" type="submit" id="search-button">Search</button>
             </div>
         </div>
